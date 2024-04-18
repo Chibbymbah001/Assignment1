@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(218, 193, 247);
+}
+.header{
+    font-size: 33px;
+    text-align: center;
+    
+}
+
+.gen{
+    display: inline;
+    -webkit-text-fill-color: blueviolet;
+}
+
+.txt{
+    font-size: large;
+    margin-bottom: 130px;
+    padding-left: 14px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.in{
+    margin-bottom: 22px;}
+
+#input{
+    width: 14px;
+}
+
+.bor{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.footer{}
+
